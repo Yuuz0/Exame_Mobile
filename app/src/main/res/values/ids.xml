@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailEditText" type="id">usuario@email.com</item>
+    <item name="passwordEditText" type="id">senha</item>
+    <item name="registerButton" type="id" />
+    <item name="userNameTextView" type="id" />
+    <item name="addDataButton" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="saveButton" type="id" />
+    <item name="loginButton" type="id" />
+</resources>
